@@ -1,12 +1,3 @@
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <time.h>
-#include <math.h>
-#include <mpi.h>
-#include "MPI.h"
-
 void rev_split(int *begin, int *end);
 
 

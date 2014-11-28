@@ -1,4 +1,10 @@
 #include "Master.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include "MPI.h"
+
 
 void readin(char * input,double * datax,double * datay,int number)
 {

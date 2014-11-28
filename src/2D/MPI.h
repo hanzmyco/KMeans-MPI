@@ -1,7 +1,4 @@
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <mpi.h>
 
 void send_double(double * x,int len,int process_id);
 
